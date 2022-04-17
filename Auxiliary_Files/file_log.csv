@@ -1,0 +1,7 @@
+Version,File,Cell,Status,Action,Note,Date
+1.0.0,sleepDay_merged.csv,B2:B414,Changes,Removal,String “ 12:00:00 AM” from sleepday column,11/04/2021
+,,,,,,
+1.0.1,sleepDay_merged.csv,F1:H1,New,Added,"Columns “Calories,TotalSteps,TotalDistance”",11/04/2021
+1.0.2,sleepDay_merged.csv,F2:F411,New,Added,Populate Calories column from dailyActivity_merged.csv Calories column,11/04/2021
+1.0.3,sleepDay_merged.csv,G2:G411,New,Added,Populate TotalSteps column from dailyActivity_merged.csv TotalSteps column,11/04/2021
+1.0.4,sleepDay_merged.csv,H2:H411,New,Added,Populate TotalDistance column from dailyActivity_merged.csv TotalDistance column,11/04/2021
